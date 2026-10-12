@@ -189,3 +189,100 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 });
+
+// special section : waterproofing
+
+document.addEventListener('DOMContentLoaded', () => {
+  const slides = document.querySelectorAll('.pool-slide');
+  const dots = document.querySelectorAll('.pool-dot');
+  const prevBtn = document.getElementById('pool-prev-btn');
+  const nextBtn = document.getElementById('pool-next-btn');
+  const sliderContainer = document.getElementById('pool-slider-container');
+
+  if (!slides.length) return;
+
+  let currentIndex = 0;
+  const slideIntervalTime = 3800; // Auto-slides every 3.8 seconds
+  let slideTimer;
+
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      if (i === index) {
+        slide.classList.remove('opacity-0', 'pointer-events-none');
+        slide.classList.add('opacity-100');
+      } else {
+        slide.classList.remove('opacity-100');
+        slide.classList.add('opacity-0', 'pointer-events-none');
+      }
+    });
+
+    dots.forEach((dot, i) => {
+      if (i === index) {
+        dot.classList.remove('bg-white/40');
+        dot.classList.add('bg-brand-cyan', 'w-4');
+      } else {
+        dot.classList.remove('bg-brand-cyan', 'w-4');
+        dot.classList.add('bg-white/40');
+      }
+    });
+
+    currentIndex = index;
+  }
+
+  function nextSlide() {
+    const nextIndex = (currentIndex + 1) % slides.length;
+    showSlide(nextIndex);
+  }
+
+  function prevSlide() {
+    const prevIndex = (currentIndex - 1 + slides.length) % slides.length;
+    showSlide(prevIndex);
+  }
+
+  function startAutoSlide() {
+    stopAutoSlide();
+    slideTimer = setInterval(nextSlide, slideIntervalTime);
+  }
+
+  function stopAutoSlide() {
+    if (slideTimer) clearInterval(slideTimer);
+  }
+
+  // Next & Previous buttons
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      nextSlide();
+      startAutoSlide();
+    });
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      prevSlide();
+      startAutoSlide();
+    });
+  }
+
+  // Dots click navigation
+  dots.forEach((dot, index) => {
+    dot.addEventListener('click', () => {
+      showSlide(index);
+      startAutoSlide();
+    });
+  });
+
+  // Pause on hover
+  if (sliderContainer) {
+    sliderContainer.addEventListener('mouseenter', stopAutoSlide);
+    sliderContainer.addEventListener('mouseleave', startAutoSlide);
+  }
+
+  // Initialize
+  showSlide(0);
+  startAutoSlide();
+
+  // Re-run lucide icons if lucide is present
+  if (window.lucide) {
+    window.lucide.createIcons();
+  }
+});
