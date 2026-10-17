@@ -1,5 +1,5 @@
 /**
- * BuildIQ Projects — PMC & Civil Contractors
+ * Arctech Projects — PMC & Civil Contractors
  * Interactive Application Script
  */
 
@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const message = document.getElementById('lead-message')?.value.trim() || 'Discussion on project scope';
 
       const waText = 
-        `*New Site Inquiry — BuildIQ Projects*\n` +
+        `*New Site Inquiry — Arctech Projects*\n` +
         `• *Client Name:* ${name}\n` +
         `• *Phone:* ${phone}\n` +
         `• *Location:* ${location}\n` +

@@ -1,18 +1,20 @@
-# BuildIQ Projects — Project Management Consultancy | Architecture | Turnkey Construction
+# Arctech Projects — Project Management Consultancy | Architecture | Turnkey Construction
 
 > **Engineering-Led Project Management, Architecture & Turnkey Construction Across India.**
 
-A modern, high-converting, responsive platform for **BuildIQ Projects**, delivering independent client-side PMC, in-house architectural design, and complete turnkey civil execution backed by 22+ years of ground-level engineering experience.
+A modern, high-converting, responsive platform for **Arctech Projects**, delivering independent client-side PMC, in-house architectural design, and complete turnkey civil execution backed by 23+ years of ground-level engineering experience.
+
+- **Official Website**: [www.arctechprojects.com](https://www.arctechprojects.com)
 
 ---
 
 ## 🏛️ Brand Overview
 
-BuildIQ Projects provides independent client-side Project Management Consultancy (PMC), in-house architectural working drawings (GFC), and complete turnkey Lock & Key civil execution.
+Arctech Projects provides independent client-side Project Management Consultancy (PMC), in-house architectural working drawings (GFC), and complete turnkey Lock & Key civil execution.
 
-- **Head Office**: B-504, Minar Tower, S. V. Road, Near JVLR Flyover, Jogeshwari West, Mumbai, Maharashtra - 400102
-- **Email**: contact@buildiqprojects.com
-- **Phone / WhatsApp**: +91 98200 12345
+- **Head Office**: Mumbai, Maharashtra, India
+- **Email**: contact@arctechprojects.com
+- **Phone / WhatsApp**: +91 86522 23456
 - **Execution Footprint**: Mumbai MMR, Rajasthan (Sikar), and Pan-India
 
 ---
@@ -20,31 +22,32 @@ BuildIQ Projects provides independent client-side Project Management Consultancy
 ## 🚀 Website Architecture & Core Sections
 
 1. **Header & Navigation**:
-   - Brand Logo: **BuildIQ Projects**
+   - Brand Logo: **Arctech Projects**
    - Tagline: `Project Management Consultancy | Architecture | Turnkey Construction`
-   - Menu: Home, Services, Featured Project (Sikar), Portfolio, About Founder, Contact Us
-   - Action: `Book Consultation`
+   - Menu: Home, Core Services, Featured Track, Site Execution, About Leadership, Contact Us
+   - Action: `Direct Engineer Line`
 
 2. **Hero Section (Main Banner)**:
-   - Main Heading: *Engineering-Led Project Management, Architecture & Turnkey Construction Across India.*
-   - Sub-Heading & Key Highlights (Independent PMC, In-House Turnkey, Arbitration Claims Advisory).
-   - CTAs: `[ View Projects ]` & `[ Connect on WhatsApp ]`.
+   - Main Heading: *Engineering-Led Waterproofing, Civil Contracting & Project Management.*
+   - Sub-Heading & Key Highlights (Advanced Waterproofing, Turnkey Civil, Technical PMC & Audits).
+   - CTAs: `[ View Completed Projects ]` & `[ WhatsApp Er. Shakil Behlim ]`.
 
 3. **Featured Project Spotlight (Sikar, Rajasthan)**:
-   - Project: *G+4 Multi-Story Development — Sikar, Rajasthan* (95% Completed).
+   - Project: *G+4 Multi-Story Development — Sikar, Rajasthan*.
    - Scope: Architectural Planning, GFC Drawings, and End-to-End On-Site PMC.
 
-4. **Why BuildIQ Projects? (The SingleWindow Advantage)**:
+4. **Why Arctech Projects? (The SingleWindow Advantage)**:
    - *How We Deliver Value Without Multi-Agency Chaos*
-   - 1. Independent PMC as Primary Focus
-   - 2. Full Turnkey Construction (Lock & Key)
-   - 3. Proven Pan-India Capability
+   - 1. Qualified Engineers on Site
+   - 2. 72-Hour Ponding Test for Waterproofing
+   - 3. Zero Billing Leakage Audits
+   - 4. Pan-India Execution Capability
 
 5. **Our Core Services**:
    - **Service 1**: Project Management Consultancy (PMC) — [Primary Core]
    - **Service 2**: Architecture & Full Turnkey Construction (Lock & Key)
-   - **Service 3**: Construction Arbitration & Contract Claims (Western Railway track record)
-   - **Service 4**: Public Sector & Institutional Infrastructure
+   - **Service 3**: Specialized Structural Waterproofing (Basement, Terrace, Swimming Pools)
+   - **Service 4**: Public Sector & Institutional Infrastructure (Railways, MES, MHADA)
 
 6. **Interactive Engineering Control & Quality Audit Center**:
    - RA Bill Auditing & Physical Measurement Sheet Verification
@@ -58,15 +61,15 @@ BuildIQ Projects provides independent client-side Project Management Consultancy
    - Urban Housing & Redevelopment (MHADA Projects)
    - Private & Commercial Developments (Corporate Offices & Luxury Residences)
 
-8. **About the Founder**:
-   - Built on 22+ Years of Ground-Level Civil Engineering.
-   - B.Tech Civil Engineering pedigree with Western Railway, MES, and MHADA on-site mastery.
+8. **About Leadership**:
+   - Built on 23+ Years of Ground-Level Civil Engineering.
+   - Led by Founder Er. Shakil Ahmed Behlim with Western Railway, MES, and MHADA on-site mastery.
 
-9. **Contact & Head Office Location**:
-   - Jogeshwari West Head Office details, validated lead capture form, file/drawing upload, and WhatsApp direct integration.
+9. **Contact & Office Location**:
+   - Mumbai Base, direct engineer line, official email, and WhatsApp direct integration.
 
 10. **Mobile Sticky Quick Buttons**:
-    - `[ WhatsApp ]` | `[ Call Now ]` | `[ Enquire Now ]`
+    - `[ Call Er. Shakil ]` | `[ WhatsApp ]`
 
 ---
 
@@ -81,4 +84,4 @@ BuildIQ Projects provides independent client-side Project Management Consultancy
 
 ## 📄 License & Attribution
 
-© 2026 BuildIQ Projects. All Rights Reserved. Project Management Consultancy | Architecture | Turnkey Construction.
+© 2026 Arctech Projects. All Rights Reserved. Project Management Consultancy | Architecture | Turnkey Construction.
